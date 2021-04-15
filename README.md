@@ -3,7 +3,7 @@
     + horizontal
     + stacked
     + icon
-- colors tbd
+- colors (eyedropper-able jpgs + hex codes in md)
     + primary
     + secondary
 - microsite theme template
