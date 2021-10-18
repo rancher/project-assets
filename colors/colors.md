@@ -61,7 +61,14 @@
   ![kubewarden](../colors/color-card-kubewarden.jpg "kubewarden")
 
   ***
+
+## lockc
+  - primary: #dd5a35
+  - secondary: #12324c
   
+  ![lockc](../colors/color-card-lockc.jpg "lockc")
+
+***
 ## longhorn
   - primary: #671c4c
   - secondary: #ff192e
